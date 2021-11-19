@@ -1,0 +1,8 @@
+
+config.json
+GatoLetrado.exe
+__pycache__/GatoLetrado.cpython-38.pyc
+exe/readme md.py
+exe/teste.py
+exe/zip.py
+python -m auto_py_to_exe.json
